@@ -1,0 +1,9 @@
+martin eden ,jack london,885426,8,0
+Gece Yarısı Kütüphanesi,Matt Haig,35,10,0
+Şeker Portakalı,Jose Mauro De Vasconcelos,123,8,0
+Hayvan Çiftliği,George Orwell,87,5,0
+tutunamayanlar,oğuz atay,7541236,10,0
+Gece Yarısı Kütüphanesi,Matt Haig,35,10,0
+Şeker Portakalı,Jose Mauro De Vasconcelos,123,8,0
+Hayvan Çiftliği,George Orwell,87,5,0
+Satranç,Stefan Zweig,7542855,4,0
